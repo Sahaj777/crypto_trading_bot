@@ -22,5 +22,7 @@ TO USE THIS SCRIPT:
 
 ![Alt text](https://github.com/Sahaj777/crypto_trading_bot/blob/main/Screenshot%20from%202023-07-01%2010-43-06.png "Output")
 
+Original algorithm used here can be found on [Medium](https://medium.com/@sahajgodhani777/building-a-automate-your-crypto-trading-bot-using-alpaca-trading-in-python-a9a5fa095eea).
+
 Made by Sahaj Godhani
 Github: https://github.com/Sahaj777
